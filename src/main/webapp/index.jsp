@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hola Mundo</h1>
+<h1>Hola_Mundo</h1>
 <%
 for(int i=1; i<=10; i++){
 	out.println("Linea "+i+"<br>");
