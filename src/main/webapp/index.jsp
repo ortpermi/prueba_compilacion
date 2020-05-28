@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Curso de Jenkins Tsoft 2020</title>
 </head>
 <body>
 <h1>Hola Mundo 2020</h1>
