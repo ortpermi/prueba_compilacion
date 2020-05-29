@@ -11,10 +11,8 @@
 <%
 for(int i=1; i<=10; i++){
 	out.println("Linea "+i+"<br>");
-	<%-- comentarios--%>
-	Los números a promediar son: <%=num1%>, <%=num2%> y <%=num3%><br><hr>
-        <%! public double media(double n1,double n2,double n3){ return (n1+n2+n3)/3; } %>    
-        Media = <%=media(num1,num2,num3)%>
+	
+
 	
 }
 %>
