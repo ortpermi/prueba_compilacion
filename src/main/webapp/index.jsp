@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Curso de Jenkins Tsoft 2020</title>
+<title>Curso de Jenkins Tsoft 2021</title>
 </head>
 <body>
-<h1>Hola Mundo Tsoft 2020_</h1>
+<h1>Hola Mundo Tsoft 2021</h1>
 <%
 for(int i=1; i<=10; i++){
 	out.println("Linea "+i+"<br>");
