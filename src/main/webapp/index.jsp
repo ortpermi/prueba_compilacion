@@ -7,7 +7,7 @@
 <title>Curso de Jenkins Tsoft 2021</title>
 </head>
 <body>
-<h1>Hola Mundo Tsoft 2021 kevin</h1>
+<h1>Hola Mundo Tsoft 2021</h1>
 <%
 for(int i=1; i<=10; i++){
 	out.println("Linea "+i+"<br>");
