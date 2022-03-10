@@ -7,7 +7,7 @@
 <title>Curso de Jenkins Tsoft 2022</title>
 </head>
 <body>
-<h1>Hola Mundo Tsoft 2022</h1>
+<h1>Hola Mundo ITFORMACION 2022</h1>
 <%
 for(int i=1; i<=10; i++){
 	out.println("Linea de prueba "+i+"<br>");
